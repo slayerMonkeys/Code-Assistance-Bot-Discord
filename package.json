@@ -1,0 +1,23 @@
+{
+  "name": "codeassistance",
+  "version": "1.0.0",
+  "description": "Bot assistance au codage",
+  "main": "main",
+  "dependencies": {
+
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "enmap": "^4.6.5",
+    "ms": "^2.1.1",
+    "nodemon": "^1.18.9",
+    "opusscript": "0.0.6",
+    "snekfetch": "^4.0.4",
+    "ytdl-core": "^0.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mirlock developement",
+  "license": "MIT"
+}
